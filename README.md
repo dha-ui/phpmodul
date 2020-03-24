@@ -2,8 +2,8 @@
 PHP: Hypertext Preprocessor adalah bahasa skrip yang dapat ditanamkan atau disisipkan ke dalam HTML.PHP banyak dipakai untuk memprogram situs web dinamis. PHP dapat digunakan untuk membangun sebuah CMS.Tidak hanya berjalan melalui peladen web, PHP juga bisa menyelesaikan tugas-tugas pemrograman dalam bentuk antarmuka baris perintah (CLI).
 ## Quick Start
 
-Try on [Demo](http://georgeosddev.github.com/markdown-edit) page.<br>
-Or Install on your local PC. Check [Guide](#on-your-local-pc) to how to install.
+Selengkapnya [Download Document](https://github.com/dha-ui/phpmodul/blob/master/MODUL_PHP_WEB_PROGRAMING.docx)<br>
+Untuk latihan gunakan [Visual Studio Code](https://code.visualstudio.com/Download) atau [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 ### KELEBIHAN
 
